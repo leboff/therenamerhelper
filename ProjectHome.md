@@ -1,0 +1,1 @@
+TheRenamerHelper is a folder monitor that runs theRenamer.exe when changes are made to a folder
